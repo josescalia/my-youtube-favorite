@@ -13,6 +13,8 @@ This is the Youtube Favorite List Application, this application created using [G
 ####Grails Plugin used in this application:
 1. [Spring Security Core](http://grails.org/plugins/spring-security-core/) plugin</a>
 
+####The Screen Shot
+I create a screen shot of this web application and a little description of each pages, can check out the screen shot [here](https://picasaweb.google.com/108778507341023372805/MyYoutubeFavoriteV10)
 
 ##Configuring The Projects
 The development should be set up using **Grails Framework**. This application also need **MySQL database**, but still can be configured using any kind of database specified by Grails Framework guide lines. Just edit File **DataSource.groovy** in **grails-app/conf/** folder to use with your own specified database.
