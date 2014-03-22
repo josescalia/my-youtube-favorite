@@ -1,7 +1,8 @@
 package org.josescalia.youtube.tools
 
 class YoutubeAPIController {
-    def browserkey = "AIzaSyDyVOdWT7qGvH6IC7k0c_UcavkVW0xsBRE"
+    def browserkey = "<Google Youtube API Key>"
+
 
     def index() {
         redirect(action: 'topList')
