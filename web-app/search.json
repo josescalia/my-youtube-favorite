@@ -1,0 +1,281 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/yYZhnuN6AEr4l3wzfDJU8MH33Ks\"",
+    "nextPageToken": "CAoQAA",
+    "pageInfo": {
+        "totalResults": 581047,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/0X-oigl1CTe6Mz92bY6HiZjT4_w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NVsgh8SB_0c"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-15T19:51:02.000Z",
+                "channelId": "UC0ixFOXRLESbxEX4QduPDYg",
+                "title": "Staind - Break The Cycle [Full Album] .",
+                "description": "Album Completo 2001 . sound 320 kb. 1.\"Open Your Eyes\" 00:00 2.\"Pressure\" 03:52 3.\"Fade\" 07:14 4.\"It's Been Awhile\" 11:17 5.\"Change\" 15:43 6.\"Can't ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NVsgh8SB_0c/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NVsgh8SB_0c/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NVsgh8SB_0c/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/pkqACX54ZZv9dnb6rrFGcBeoyLg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "araU0fZj6oQ"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-27T02:57:08.000Z",
+                "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+                "title": "Staind - It's Been Awhile (Video)",
+                "description": "2007 WMG It's Been Awhile (Video)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/araU0fZj6oQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/araU0fZj6oQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/araU0fZj6oQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "AtlanticVideos",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/8NiDv5B8TznezH3G7UBKwYfEskk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nCQg7aXd7bY"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-28T07:31:20.000Z",
+                "channelId": "UCyPfbAHZQryMLnnu1hcaL8g",
+                "title": "2002 Staind - MTV Unplugged FULL SHOW",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nCQg7aXd7bY/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nCQg7aXd7bY/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nCQg7aXd7bY/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "drmrdude04",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/H6UA80XVmcLACVdwZe0f05-GCW4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mVQpfoqsY8Q"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-27T02:56:58.000Z",
+                "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+                "title": "Staind - Outside (Video)",
+                "description": "2006 WMG Outside (Video)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mVQpfoqsY8Q/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mVQpfoqsY8Q/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mVQpfoqsY8Q/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "AtlanticVideos",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/hhSaF6hrANsrBLssa9XV0A_cvlo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HZeEalWcAqU"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-29T13:24:46.000Z",
+                "channelId": "UCM4sRXQ7jl6G5SfsVqyBcsw",
+                "title": "Staind - Live From Mohegan Sun [2011, BDRip 1080p].mkv",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HZeEalWcAqU/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HZeEalWcAqU/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HZeEalWcAqU/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/OasCnOeE1UR_ut2GYQw1zOktnho\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s06ZcueKF0Q"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-07T23:03:33.000Z",
+                "channelId": "UC0ixFOXRLESbxEX4QduPDYg",
+                "title": "Staind - Staind [Full Album]",
+                "description": "Album Staind 2011.Completo. 00:01 Eyes Wide Open 03:31 Not Again 08:05 Failing 13:31 Wannabe 17:20 Throw it all Away 21:44 Take a Breath 25:40 The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s06ZcueKF0Q/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s06ZcueKF0Q/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s06ZcueKF0Q/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/piss2XDu5en-TLCB06qGKeb9ozY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VK7iHiCmTg8"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-06T09:56:25.000Z",
+                "channelId": "UCp0uxdUViQ2LTAqRePby68g",
+                "title": "Staind - Something To Remind You (Live At Mohegan Sun) ~ 1080p HD",
+                "description": "http://smarturl.it/StaindSuncddvdbluray Filmed at the Mohegan Sun Arena in Connecticut on 25 November 2011, this concert captures a typically raw and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VK7iHiCmTg8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VK7iHiCmTg8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VK7iHiCmTg8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "eaglerocktv",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/crU1xzy0sA6NuZJw0W7tos2LzRg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v_hyHSZ7bQw"
+            },
+            "snippet": {
+                "publishedAt": "2011-08-31T18:20:01.000Z",
+                "channelId": "UCygNV8cau_ZC22-Y7TlPpCw",
+                "title": "Staind - Not Again (Official Video)",
+                "description": "Directed By Paul Brown © 2011 WMG. The first single from the new self-titled album coming 9/13/11! Click here to download the single: bit.ly/nG2zuy http://st...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v_hyHSZ7bQw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v_hyHSZ7bQw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v_hyHSZ7bQw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "StaindVideos",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/5FWiME4_JuTBEtqnAc6FF7_exm8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iWQgkpoBZz0"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-16T20:09:37.000Z",
+                "channelId": "UC0ixFOXRLESbxEX4QduPDYg",
+                "title": "Staind - The lllusion Of Progress  [Full Album]",
+                "description": "13 Songs .2008 Completo 2008 This is it-00:00 The way i am-3:43 Believe-8:03 Save me-12:20 All i want-17:13 Pardon me-20:45 Lost along the way-25:48 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iWQgkpoBZz0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iWQgkpoBZz0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iWQgkpoBZz0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"PoAnP6GALHRQwbIPTryP-ZGqRQg/dDdVpXxT4DcTHLl1TMOe0iFaEf0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gtoyQJsV22U"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-09T20:41:39.000Z",
+                "channelId": "UC0ixFOXRLESbxEX4QduPDYg",
+                "title": "Staind - Chapter V - [Full Album] 2005",
+                "description": "Album Completo. 1. Run Away 0:00 2. Right Here 3:38 3. Paper Jesus 7:52 4. Schizophrenic Conversations 12:07 5. Falling 16:40 6. Cross to Bear 21:00 7.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gtoyQJsV22U/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gtoyQJsV22U/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gtoyQJsV22U/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
