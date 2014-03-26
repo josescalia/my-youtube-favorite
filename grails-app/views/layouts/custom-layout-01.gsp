@@ -46,7 +46,7 @@
                 <a href="#">Welcome Guest</a>
             </li>
             <li>
-                <a href="#" id="btnLogin">Login <span
+                <a href="#" id="btnLogin" data-toggle="tooltip" data-placement="bottom" title="Click to login">Login <span
                         class="glyphicon glyphicon-log-in"></span></a>
             </li>
         </sec:ifNotLoggedIn>

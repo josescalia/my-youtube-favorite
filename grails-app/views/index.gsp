@@ -20,7 +20,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" data-dismiss="modal" class="close" aria-hidden="true">&times;</button>
-                <h4 class="text-center"><span class="glyphicon glyphicon-lock"></span> Login</h4>
+                <h4><span class="glyphicon glyphicon-lock"></span> Login</h4>
             </div>
 
             <div class="modal-body">
